@@ -3,5 +3,5 @@ Application of parallel coordinates to visualize and analyze multidimensional da
 
 Download the instructions from [here]
 
-[here]: https://github.com/alminagorta/Parallel-Coordinates/blob/master/II-Coord-Instructions_Jan2020.docx
+[here]: https://github.com/alminagorta/Parallel-Coordinates/raw/master/II-Coord-Instructions_Jan2020.docx
  
