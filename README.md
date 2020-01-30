@@ -1,6 +1,7 @@
 # Parallel-Coordinates
 Application of parallel coordinates to visualize and analyze multidimensional data 
 
-See instructions [here]
+Download the instructions from [here]
 
-[here]: 
+[here]: https://github.com/alminagorta/Parallel-Coordinates/blob/master/II-Coord-Instructions_Jan2020.docx
+ 
