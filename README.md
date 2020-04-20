@@ -8,9 +8,9 @@ Download the instructions from [here]
  ## Implementation:
  Parallel coordinates can be implemented with multiple software, such as:
  * [Xdat] : A free parallel coordinates software
- * [Python package] : Yellowbrick is a diagnostic visualization platform in python that provides multiple alternatives to visualize data. One of the is parallel coordinates 
+ * [Python package] : Yellowbrick is a diagnostic visualization platform in python which include parallel coordinates visualization
  * [R package] : Parallel coordinates charts can be built with R using the ggally packages and its ggparcoord() function
- * [Matlab package] : Parallel coordinates charts can be built with MAtlab using parallelplot package
+ * [Matlab package] : Matlab use parallelplot package to visualize parallel coordinates charts
 
  [Xdat]: https://www.xdat.org/
  [Python package]: https://www.scikit-yb.org/en/latest/api/features/pcoords.html
@@ -19,3 +19,9 @@ Download the instructions from [here]
 
 ## Example:
 
+Software | About the Program | Example Code 
+--- | --- | ---  
+[Xdat] |A free parallel coordinates software |   [Example_Xdat](https://github.com/randerson112358/Python/blob/master/simple_returns.py) | 
+[Python package] | Yellowbrick is a diagnostic visualization platform in python which include parallel coordinates visualization | [ExampleCode_in-Python]
+[R package] | Parallel coordinates charts can be built with R using the ggally packages and its ggparcoord() function | [ExampleCode_in-R]
+[Matlab package] | Matlab use parallelplot package to visualize parallel coordinates charts | [ExampleCode_in-MatLab]
