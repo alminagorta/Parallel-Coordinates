@@ -17,7 +17,7 @@ Software | About the Program | Example Code
  [R package]: https://www.r-graph-gallery.com/parallel-plot-ggally.html
 [Matlab package]: https://www.mathworks.com/help/matlab/ref/parallelplot.html
 
-## Resources
+## Additional Resources
 * Workshop at UofT. Download the instructions from [here]
 
 [here]: https://github.com/alminagorta/Parallel-Coordinates/raw/master/II-Coord-Instructions_Jan2020.docx
