@@ -1,0 +1,75 @@
+body {
+  font-size: 14px;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  margin: 24px;
+  background: #fcfcfc;
+  line-height: 1.45em;
+}
+
+/* Slick Grid */
+.slick-row:hover {
+  font-weight: bold;
+}
+.ui-widget {
+  font-size: 1em;
+}
+
+/* Page itself */
+.clear {
+  clear: both;
+}
+
+#header h2 {
+  margin-top: 0;
+  color:darkorange;
+}
+
+a {
+  color: #555;
+}
+a:hover {
+  color: #000;
+}
+
+ul li { list-style:none; }
+ul li:before {
+  content:"\2022";
+  color: darkorange;
+  font-size:1.5em;
+  padding-right:.5em;
+  position:relative;
+  top:.15em;
+}
+
+#explanation {
+  width: 700px;
+  float: left;
+}
+#parcoords {
+  margin-top: 180px;
+  height:350px;
+  clear: both;
+}
+#map {
+  width:450px;
+  float: left;
+}
+#grid {
+  height: 320px;
+  margin-top: 40px;
+  margin-left: 450px;
+}
+#sources {
+  /*background-color: green;*/
+  width: 400px;
+  float: left;
+}
+#software {
+  /*background-color: red;*/
+  width: 400px;
+  margin-left: 500px;
+}
+#footer {
+  clear: both;
+  height: 30px;
+}
