@@ -5,12 +5,12 @@ Application of parallel coordinates to visualize and analyze multidimensional da
  ## Implementation:
  Parallel coordinates can be implemented with multiple software, such as:
 
-Software | Framework/Library | Example Code 
+Software | Framework/Library | Code Examples
 --- | --- | ---  
-Xdat | [Xdat] is a free parallel coordinates software |   [Example_Xdat](https://github.com/randerson112358/Python/blob/master/simple_returns.py) | 
 Python | Parallel coordinates plots can be implemented in Python using [Yellowbrick] package | [ExampleCode_in-Python]
 R | Parallel coordinates charts can be built with R using the ggally packages and its [ggparcoord] function | [ExampleCode_in-R]
 JavaScript | JavaScript, Html, CSS, and multiple libraries can be used to visualize parallel coordinates charts | [ExampleCode_in-JavaScript]
+Xdat | [Xdat] is a free parallel coordinates software |   [Example_Xdat](https://github.com/randerson112358/Python/blob/master/simple_returns.py) |
 
  [Xdat]: https://www.xdat.org/
  [Yellowbrick]: https://www.scikit-yb.org/en/latest/api/features/pcoords.html
