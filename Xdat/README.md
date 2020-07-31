@@ -23,7 +23,8 @@ XDAT is free software created in Java and used to visualize parallel coordinates
 
 ## Example Application
 
-A parallel coordinates plot was implemented using data from [Ontario Freshwater Fishes Life History Database]
+A parallel coordinates plot was implemented using data from [Ontario Freshwater Fishes Life History Database]. A [subsample] of the data was selected to 
+implement this approach
 
 
 <img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1_Table.png" width=200/>
@@ -41,6 +42,9 @@ Fig2 Parallel coordinates plot implemented with Xdat
 
 
 [Ontario Freshwater Fishes Life History Database]: http://www.ontariofishes.ca/home.htm
+
+[subsample]: https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/Fish_data.txt
+
 
 ## More Information
 
