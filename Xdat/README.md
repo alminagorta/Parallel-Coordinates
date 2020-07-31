@@ -29,11 +29,14 @@ A parallel coordinates plot was implemented using data from [Ontario Freshwater 
 <img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1_Table.png" width=200/>
 Fig1 Input Table
 
-<img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1.png" width=800/>
-Fig2 Parallel coordinates plot implemented with Xdat
 
 <img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1_2D.png" width=200/>
 Fig3 Exploring relationships between axes
+
+
+<img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1.png" width=800/>
+Fig2 Parallel coordinates plot implemented with Xdat
+
 
 
 
