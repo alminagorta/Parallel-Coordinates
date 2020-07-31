@@ -1,8 +1,15 @@
 # Parallel-Coordinates
-Application of parallel coordinates to visualize and analyze multidimensional data 
+Application of parallel coordinates to explore and visualize multidimensional data 
 
+## Case studies presented in the paper
 
- ## Implementation:
+* [Case study 1]: Assessing stream ecosystem health 
+* [Case study 2]: Identifying environmental conditions associated with the occurrence of an aquatic invasive species
+
+[Case study 1]: http://oalminagorta.byethost7.com/CABIN/index.html
+[Case study 2]: http://oalminagorta.byethost7.com/ZebraMussel/index.html
+
+ ## Open source software to implement parallel coordinates plot
  Parallel coordinates can be implemented with multiple software, such as:
 
 Software | Framework/Library | Implementation
