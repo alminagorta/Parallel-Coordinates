@@ -7,13 +7,16 @@ XDAT is free software created in Java and used to visualize parallel coordinates
 ## How to use it
 
 * Make sure your computer have Java. Otherwise you must install on your system from [here]
-* Open the [xdat file] or if you prefer download from the original [Xdat_website]
-* Import data and plot the parallel coordinates (see intrucctions [Xdat_import])
+* Download the [xdat file] or if you prefer from the original [Xdat_website]
+* Run the program (Xdat), input the data, and create the parallel coordinates: 
+a. Run the program => execute the file “xdat” 
+b. Input the data=> In xdat window, select Data option and Import data with Headers [Fig1] 
+c. Create Parallel Coordinates plot=> In the option Chart select Create Parallel Coordinates Chart [Fig.2] 
+d. Get insights [Fig.3]
 
-[xdat file] : link from the GitHub
+[xdat file]: https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/xdat.jar
 [Xdat_website]: https://www.xdat.org/index.php?ref=download
-[Xdat_import]: link to import data Xdat (workshop)
-[here] : https://www.oracle.com/java/technologies/javase-downloads.html
+[here]: https://www.oracle.com/java/technologies/javase-downloads.html
 
 ## Example Application
 
