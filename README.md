@@ -10,12 +10,13 @@ Software | Framework/Library | Implementation
 Python | Parallel coordinates plots can be implemented in multiple packages including [Plotly] or [Yellowbrick] | [Implementation_in-Python]
 R | Parallel coordinates charts can be built with R using the ggally packages and its [ggparcoord] function | [Implementation_in-R]
 JavaScript | JavaScript, Html, CSS, and multiple libraries can be used to visualize parallel coordinates charts | [Implementation_in-JavaScript]
-Xdat | [Xdat] is a free parallel coordinates software |   [Implementation_Xdat](https://github.com/randerson112358/Python/blob/master/simple_returns.py) |
+Xdat | [Xdat] is a free parallel coordinates software |   [Implementation_in_Xdat](https://github.com/randerson112358/Python/blob/master/simple_returns.py) |
 
 [Implementation_in-Python]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python
 [Implementation_in-R]: 
 [Implementation_in-JavaScript]: 
-[Implementation_Xdat]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat
+[Implementation_in_Xdat]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat
+[Plotly]: https://plotly.com/python/parallel-coordinates-plot/
 
 ## Examples
 <img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" width=400/>
