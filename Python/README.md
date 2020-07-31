@@ -1,4 +1,4 @@
-# Implementation of Parallell Coordinates using Python
+# Implementation of Parallel Coordinates using Python
 
 Two main sources of fish survey data: 
 
