@@ -3,8 +3,19 @@ Application of parallel coordinates to explore and visualize multidimensional da
 
 ## Case studies presented in the paper
 
-* [Case study 1]: Assessing stream ecosystem health 
-* [Case study 2]: Identifying environmental conditions associated with the occurrence of an aquatic invasive species
+### [Case study 1]: Assessing stream ecosystem health 
+
+<a href="http://oalminagorta.byethost7.com/CABIN/index.html" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Miscellaneous/CaseStudies/Cabin_plot.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
+
+
+### [Case study 2]: Identifying environmental conditions associated with the occurrence of an aquatic invasive species
+
+
+<a href="http://oalminagorta.byethost7.com/ZebraMussel/index.html" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Miscellaneous/CaseStudies/ZebraMussel.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
+
+
 
 [Case study 1]: http://oalminagorta.byethost7.com/CABIN/index.html
 [Case study 2]: http://oalminagorta.byethost7.com/ZebraMussel/index.html
@@ -26,9 +37,14 @@ Xdat | [Xdat] is a free parallel coordinates software |   [Implementation_in_Xda
 [Plotly]: https://plotly.com/python/parallel-coordinates-plot/
 
 ## Examples
-<img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" width=400/>
-<img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1.png" width=400/>
+### Exploration of patterns in trait diversity
+#### Using Python
+<a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
+#### Using Xdat
+<a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 
  [Xdat]: https://www.xdat.org/
