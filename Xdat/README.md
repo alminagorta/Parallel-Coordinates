@@ -1,7 +1,5 @@
 # Implementation of Parallel Coordinates using Xdat
 
-## What is it
-
 [Xdat] is free software created in Java and used to visualize parallel coordinates 
 
 ## How to use it
