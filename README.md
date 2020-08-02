@@ -46,4 +46,6 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
  [ggparcoord]: https://www.r-graph-gallery.com/parallel-plot-ggally.html
 [Matlab package]: https://www.mathworks.com/help/matlab/ref/parallelplot.html
 
+## IV. Licensing:
 
+For licensing arrangements, contact Omar Alminagorta directly. 
