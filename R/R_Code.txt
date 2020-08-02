@@ -1,17 +1,20 @@
-
+#Code to Plot parallel coordinates
+#using Ontario fish data (https://raw.githubusercontent.com/alminagorta/Parallel-Coordinates/master/R/OntarioFishDatabase.csv)
+#By Omar Alminagorta - Aug.2020
 
 library(plotly)
 library(RCurl)
 
 #Input Data
-# online
+
+#Use this if the data is on your computer
+data = read.delim("C:\\Users\\oa\\Documents\\GitHub\\Parallel-Coordinates\\R\\OntarioFishDatabase.csv", header=T, sep=",")
+
+# Use this if the data is online
 #urlfile<-'https://raw.githubusercontent.com/alminagorta/Parallel-Coordinates/master/R/OntarioFishDatabase.csv?token=AB53NSFHLJFNOXGMARWC5CK7EWVBO'
 #data<-read.csv(urlfile)
 
-#computer
-data = read.delim("C:\\Users\\oa\\Documents\\GitHub\\Parallel-Coordinates\\R\\OntarioFishDatabase.csv", header=T, sep=",")
-
-
+#Plotting
 fig <- data %>% plot_ly(type = 'parcoords',
                         line = list(color = ~RecordLengthTL_cm,
                                     colorscale = list(c(0,'red'),c(0.5,'green'),c(1,'blue'))),
