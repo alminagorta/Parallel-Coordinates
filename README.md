@@ -23,18 +23,20 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
  ## Example of open source software to implement parallel coordinates plot
  Parallel coordinates can be implemented with multiple software, such as:
 
+[Implementation_in-Xdat]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat
+[Plotly]: https://plotly.com/python/parallel-coordinates-plot/
+
 Software | Framework/Library | Implementation
 --- | --- | ---  
 Python | Parallel coordinates plots can be implemented in multiple packages including [Plotly] or [Yellowbrick] | [Implementation_in-Python]
 R | Parallel coordinates charts can be built with R using the ggally packages and its [ggparcoord] function | [Implementation_in-R]
 JavaScript | JavaScript, Html, CSS, and multiple libraries can be used to visualize parallel coordinates charts | [Implementation_in-JavaScript]
-Xdat | [Xdat] is a free parallel coordinates software | [Implementation_in_Xdat] |
+Xdat | [Xdat] is a free parallel coordinates software | [Implementation_in-Xdat] |
 
 [Implementation_in-Python]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python
 [Implementation_in-R]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/R
 [Implementation_in-JavaScript]: 
-[Implementation_in_Xdat]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat
-[Plotly]: https://plotly.com/python/parallel-coordinates-plot/
+
 
 ## Examples
 ### Exploration of patterns in fish trait diversity
