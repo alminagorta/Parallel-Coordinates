@@ -1,7 +1,7 @@
 # Parallel-Coordinates
 Application of parallel coordinates to explore and visualize multidimensional data 
 
-## Case studies presented in the paper
+## I. Case studies presented in the paper
 Here I will provide the links to get access to the interactive plots (lines 215 and 246 in the paper)
 
 ### [Case study 1]: 
@@ -9,7 +9,7 @@ Here I will provide the links to get access to the interactive plots (lines 215 
 ### [Case study 2]: 
 
 
- ## Example of open source software to implement parallel coordinates plot
+ ## II. Example of open source software to implement parallel coordinates plot
  Parallel coordinates can be implemented with multiple software, such as:
 
 [Implementation_in-Xdat]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat
@@ -26,7 +26,7 @@ Xdat | [Xdat] is a free parallel coordinates software | [Implementation_in-Xdat]
 [Implementation_in-R]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/R
 [Implementation_in-JavaScript]: 
 
-## Additional Examples
+## III. Additional Examples
 ### Exploration of patterns in fish trait diversity
 #### Using Python
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" 
