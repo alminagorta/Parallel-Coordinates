@@ -37,7 +37,7 @@ Xdat | [Xdat] is a free parallel coordinates software |   [Implementation_in_Xda
 [Plotly]: https://plotly.com/python/parallel-coordinates-plot/
 
 ## Examples
-### Exploration of patterns in trait diversity
+### Exploration of patterns in fish trait diversity
 #### Using Python
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
