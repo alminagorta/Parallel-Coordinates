@@ -2,19 +2,11 @@
 Application of parallel coordinates to explore and visualize multidimensional data 
 
 ## Case studies presented in the paper
+(Here I will provide the links for the case studies)
 
-### [Case study 1]: Assessing stream ecosystem health 
+### [Case study 1]: 
 
-<a href="http://oalminagorta.byethost7.com/CABIN/index.html" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Miscellaneous/CaseStudies/Cabin_plot.png" 
-alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
-
-
-### [Case study 2]: Identifying environmental conditions associated with the occurrence of an aquatic invasive species
-
-
-<a href="http://oalminagorta.byethost7.com/ZebraMussel/index.html" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Miscellaneous/CaseStudies/ZebraMussel.png" 
-alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
-
+### [Case study 2]: 
 
 
 [Case study 1]: http://oalminagorta.byethost7.com/CABIN/index.html
