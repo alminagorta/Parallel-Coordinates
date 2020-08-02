@@ -14,10 +14,10 @@ Here, we provide an example using Plotly because its interactivity in the web
 
 * Make sure your computer have R installed and Plotly library. 
 * Select the main variables from the input table [Fig1]
-* Run the Python and use [this code] to input the data, and create the parallel coordinates: 
+* Run the [R code] to input the data, and create the parallel coordinates [Fig2]
 
 
-[this code]: https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/II_coorde_GitHub_python.py
+[R code]: 
 
 ## Example Application
 

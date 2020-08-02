@@ -1,27 +1,39 @@
 
+
 library(plotly)
 library(RCurl)
 
 #Input Data
-urlfile<-'https://raw.githubusercontent.com/bcdunbar/datasets/master/iris.csv'
-data<-read.csv(urlfile)
+# online
+#urlfile<-'https://raw.githubusercontent.com/alminagorta/Parallel-Coordinates/master/R/OntarioFishDatabase.csv?token=AB53NSFHLJFNOXGMARWC5CK7EWVBO'
+#data<-read.csv(urlfile)
 
+#computer
+data = read.delim("C:\\Users\\oa\\Documents\\GitHub\\Parallel-Coordinates\\R\\OntarioFishDatabase.csv", header=T, sep=",")
 
 
 fig <- data %>% plot_ly(type = 'parcoords',
-                      line = list(color = ~species_id,
-                                  colorscale = list(c(0,'red'),c(0.5,'green'),c(1,'blue'))),
-                      dimensions = list(
-                        list(range = c(2,4.5),
-                             label = 'Sepal Width', values = ~sepal_width),
-                        list(range = c(4,8),
-                             constraintrange = c(5,6),
-                             label = 'Sepal Length', values = ~sepal_length),
-                        list(range = c(0,2.5),
-                             label = 'Petal Width', values = ~petal_width),
-                        list(range = c(1,7),
-                             label = 'Petal Length', values = ~petal_length)
-                      )
+                        line = list(color = ~RecordLengthTL_cm,
+                                    colorscale = list(c(0,'red'),c(0.5,'green'),c(1,'blue'))),
+                        dimensions = list(
+                          list(range = c(3,89),
+                               label = 'AdultLengthTL_Min_cm', values = ~AdultLengthTL_Min_cm),
+                          list(range = c(4,150),
+                               constraintrange = c(5,80),
+                               label = 'AdultLengthTL_Max_cm', values = ~AdultLengthTL_Max_cm),
+                          list(range = c(0,2.5),
+                               label = 'AdultWeightMin_kg', values = ~AdultWeightMin_kg),
+                          list(range = c(0,20),
+                               label = 'AdultWeightMax_kg', values = ~AdultWeightMax_kg),
+                          list(range = c(0,12),
+                               label = 'AgeAtMaturityMin_yr', values = ~AgeAtMaturityMin_yr),
+                          list(range = c(0,20),
+                               label = 'AgeAtMaturityMax_yr', values = ~AgeAtMaturityMax_yr),
+                          list(range = c(0,223),
+                               label = 'RecordLengthTL_cm', values = ~RecordLengthTL_cm)
+                          
+                          
+                        )
 )
 
 fig
