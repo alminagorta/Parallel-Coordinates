@@ -20,7 +20,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 [Case study 1]: http://oalminagorta.byethost7.com/CABIN/index.html
 [Case study 2]: http://oalminagorta.byethost7.com/ZebraMussel/index.html
 
- ## Open source software to implement parallel coordinates plot
+ ## Example of open source software to implement parallel coordinates plot
  Parallel coordinates can be implemented with multiple software, such as:
 
 Software | Framework/Library | Implementation
