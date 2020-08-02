@@ -42,6 +42,10 @@ Xdat | [Xdat] is a free parallel coordinates software |   [Implementation_in_Xda
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
+#### Using R
+<a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/R" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/R/Plot_fish_R.png" 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
+
 #### Using Xdat
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
