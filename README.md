@@ -48,4 +48,6 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 ## IV. Licensing:
 
-For licensing arrangements, contact Omar Alminagorta directly. 
+Scripts presented in the table above of this repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
+
+[BSD 3-Clause license]: 
