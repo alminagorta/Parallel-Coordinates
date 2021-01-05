@@ -27,7 +27,7 @@ Xdat | [Xdat] is a free parallel coordinates software | [Implementation_in-Xdat]
 [Implementation_in-JavaScript]: 
 
 ## III. Additional Examples
-### Exploration of patterns in fish trait diversity
+### Application of parallel coordinates to explore patterns in fish trait diversity using multiple open source software
 #### Using Python
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Python/Parallel_Plot.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
@@ -35,6 +35,11 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 #### Using R
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/R" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/R/Plot_fish_R.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
+
+#### Using JavaScript
+<a href=".............." target="_blank"><img src=".............." 
+alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
+
 
 #### Using Xdat
 <a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/Xdat" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/Xdat/fish1.png" 
@@ -46,8 +51,15 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
  [ggparcoord]: https://www.r-graph-gallery.com/parallel-plot-ggally.html
 [Matlab package]: https://www.mathworks.com/help/matlab/ref/parallelplot.html
 
-## IV. Licensing:
+## IV. Authors:
 
-Scripts presented in the table above of this repository are disturbed under a [BSD 3-Clause license]. For alternative licensing arrangements, contact Omar Alminagorta directly. 
+* Omar Alminagorta Cabezas, 
+* Charlie Loewen,
+* Derrick T. de Kerckhove,
+* Donald Jackson, 
+* Cindy Chu
 
-[BSD 3-Clause license]: https://github.com/alminagorta/Parallel-Coordinates/blob/master/License.txt 
+## V. Licensing:
+
+contact Omar Alminagorta directly. 
+
