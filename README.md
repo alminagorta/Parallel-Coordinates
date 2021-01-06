@@ -61,5 +61,5 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 ## V. Licensing:
 
-contact Omar Alminagorta directly. 
+contact Omar Alminagorta. 
 
