@@ -24,7 +24,7 @@ Xdat | [Xdat] is a free parallel coordinates software | [Implementation_in-Xdat]
 
 [Implementation_in-Python]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/Python
 [Implementation_in-R]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/R
-[Implementation_in-JavaScript]: 
+[Implementation_in-JavaScript]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/JavaScript
 
 ## III. Additional Examples
 ### Application of parallel coordinates to explore patterns in fish trait diversity using multiple open source software
@@ -37,7 +37,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 #### Using JavaScript
-<a href=".............." target="_blank"><img src=".............." 
+<a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/JavaScript" target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/JavaScript/Fish_Example_JavaSc.png" 
 alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 
