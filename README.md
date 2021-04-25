@@ -2,11 +2,11 @@
 Application of parallel coordinates to explore and visualize multidimensional data 
 
 ## I. Case studies presented in the paper
-Here I will provide the links to get access to the interactive plots (lines 202 and 233 in the paper)
+Here I will provide the links to get access to the interactive plots (lines 209 and 244 in the paper)
 Also I will include the data and scripts associated with the manuscript
-### [Case study 1]: 
+### [Case study 1]: Link presented in line 209 
 
-### [Case study 2]: 
+### [Case study 2]: Link presented in line 244
 
 
  ## II. Example of open source software to implement parallel coordinates plot
