@@ -4,9 +4,9 @@ Application of parallel coordinates to explore and visualize multidimensional da
 ## I. Case studies presented in the paper
 Here I will provide the links to get access to the interactive plots (lines 209 and 244 in the paper)
 Also I will include the data and scripts associated with the manuscript
-### [Case study 1]: Link presented in line 209 
+### [Case study 1]: Link presented in line 216
 
-### [Case study 2]: Link presented in line 244
+### [Case study 2]: Link presented in line 247
 
 
  ## II. Example of open source software to implement parallel coordinates plot
@@ -56,7 +56,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 * Omar Alminagorta Cabezas, 
 * Charlie Loewen,
 * Derrick T. de Kerckhove,
-* Donald Jackson, 
+* Donald A. Jackson, 
 * Cindy Chu
 
 ## V. Licensing:
