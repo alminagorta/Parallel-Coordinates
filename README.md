@@ -53,11 +53,18 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 ## IV. Authors:
 
-* Omar Alminagorta Cabezas, 
-* Charlie Loewen,
-* Derrick T. de Kerckhove,
-* Donald A. Jackson, 
-* Cindy Chu
+
+* Omar Alminagorta Cabezas <sup>[1] [2] </sup>, 
+* Charlie Loewen <sup>[1] </sup>,
+* Derrick T. de Kerckhove <sup>[1] [3] </sup>,
+* Donald A. Jackson <sup>[1] </sup>, 
+* Cindy Chu <sup>[1] [3] </sup>
+
+### Afiliations
+* [1]: Department of Ecology and Evolutionary Biology, University of Toronto, Ontario, Canada. 
+* [2]: Department of Planning and Engineering, City of Aurora, Colorado, USA.
+* [3]: Aquatic Research and Monitoring Section, Ministry of Natural Resources & Forestry, Ontario, Canada.
+
 
 ## V. Licensing:
 
