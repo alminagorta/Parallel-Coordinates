@@ -8,6 +8,9 @@ Application of parallel coordinates to explore and visualize multidimensional da
 
 ### [Case study 1: Assessing water quality in streams]
 
+<a href="http://oalminagorta.byethost7.com/CABIN/index.html " target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/CaseStudy_1/WQuality1x.png" 
+alt="IMAGE ALT TEXT HERE" width="900" height="250" border="10" /></a>
+
 ### [Case study 2: Identifying environmental conditions associated with the occurrence of an aquatic invasive species]
 
 
@@ -60,9 +63,8 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 
 ## IV. Authors:
 
-
 * Omar Alminagorta Cabezas <sup>[1] [2] </sup>, 
-* Charlie Loewen <sup>[1] </sup>,
+* Charlie J.G.Loewen <sup>[1] </sup>,
 * Derrick T. de Kerckhove <sup>[1] [3] </sup>,
 * Donald A. Jackson <sup>[1] </sup>, 
 * Cindy Chu <sup>[1] [3] </sup>
