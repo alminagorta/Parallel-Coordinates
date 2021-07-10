@@ -13,6 +13,9 @@ alt="IMAGE ALT TEXT HERE" width="900" height="250" border="10" /></a>
 
 ### [Case study 2: Identifying environmental conditions associated with the occurrence of an aquatic invasive species]
 
+<a href="https://github.com/alminagorta/Parallel-Coordinates/tree/master/CaseStudy_2 " target="_blank"><img src="https://github.com/alminagorta/Parallel-Coordinates/blob/master/CaseStudy_2/ZebraMussel1x.png" 
+alt="IMAGE ALT TEXT HERE" width="900" height="250" border="10" /></a>
+
 
 [Case study 1: Assessing water quality in streams]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/CaseStudy_1
 
