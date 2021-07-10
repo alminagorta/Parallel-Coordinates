@@ -1,12 +1,19 @@
 # Parallel-Coordinates
-Application of parallel coordinates to explore and visualize multidimensional data 
+Application of parallel coordinates to explore and visualize multidimensional data. We demonstrate this tool with two case studies to (i) explore water-quality in streams and (ii) identify environmental conditions that contribute to invasive zebra mussel in lakes. Details of the methodology and findings are presented in our paper [Exploratory analysis of multivariate data: Applications of parallel coordinates in ecology"]
+
+[Exploratory analysis of multivariate data: Applications of parallel coordinates in ecology"]: https://www.sciencedirect.com/science/article/abs/pii/S1574954121001527
+
 
 ## I. Case studies presented in the paper
-Here I will provide the links to get access to the interactive plots (lines 216 and 247 in the paper)
-Also I will include the data and scripts associated with the manuscript
-### [Case study 1]: Link presented in line 216
 
-### [Case study 2]: Link presented in line 247
+### [Case study 1: Assessing water quality in streams]
+
+### [Case study 2: Identifying environmental conditions associated with the occurrence of an aquatic invasive species]
+
+
+[Case study 1: Assessing water quality in streams]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/CaseStudy_1
+
+[Case study 2: Identifying environmental conditions associated with the occurrence of an aquatic invasive species]: https://github.com/alminagorta/Parallel-Coordinates/tree/master/CaseStudy_2
 
 
  ## II. Example of open source software to implement parallel coordinates plot
@@ -63,7 +70,7 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 ### Afiliations
 * [1]: Department of Ecology and Evolutionary Biology, University of Toronto, Ontario, Canada. 
 * [2]: Department of Planning and Engineering, City of Aurora, Colorado, USA.
-* [3]: Aquatic Research and Monitoring Section, Ministry of Natural Resources & Forestry, Ontario, Canada.
+* [3]: Ministry of Northern Development, Mines, Natural Resources and Forestry, Ontario, Canada
 
 
 ## V. Licensing:
