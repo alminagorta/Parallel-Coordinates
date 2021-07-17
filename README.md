@@ -77,6 +77,8 @@ alt="IMAGE ALT TEXT HERE" width="500" height="250" border="10" /></a>
 * [2]: Department of Planning and Engineering, City of Aurora, Colorado, USA.
 * [3]: Ministry of Northern Development, Mines, Natural Resources and Forestry, Ontario, Canada
 
+### Citation
+Alminagorta, O., Loewen, C.J.G., de Kerckhove, D.T., Jackson, D.A., Chu, C., 2021. Exploratory analysis of multivariate data: Applications of parallel coordinates in ecology. Ecol. Inform. 64, 101361. https://doi.org/https://doi.org/10.1016/j.ecoinf.2021.101361
 
 ## V. Licensing:
 
